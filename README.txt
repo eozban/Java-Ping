@@ -1,0 +1,1 @@
+Bu Uygulama Erdal ÖZBAN Tarafından Java üzerinden ping çekebilmeyi denemek için yazılmıştır.
